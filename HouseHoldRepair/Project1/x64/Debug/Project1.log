@@ -1,0 +1,37 @@
+﻿  CustomerPage.cpp
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(65,27): warning C4677: 'talents1': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(101,3): warning C4677: 'heapify': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(126,3): warning C4677: 'HeapSort': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(147,8): warning C4101: 'status': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(301,11): warning C4101: 'talent_first_nam': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(300,11): warning C4101: 'talent_username': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(302,11): warning C4101: 'talent_last_name': unreferenced local variable
+  MyForm.cpp
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(65,27): warning C4677: 'talents1': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(101,3): warning C4677: 'heapify': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(126,3): warning C4677: 'HeapSort': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(147,8): warning C4101: 'status': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(301,11): warning C4101: 'talent_first_nam': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(300,11): warning C4101: 'talent_username': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(302,11): warning C4101: 'talent_last_name': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\MyForm.cpp(6,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm1.cpp
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(65,27): warning C4677: 'talents1': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(101,3): warning C4677: 'heapify': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(126,3): warning C4677: 'HeapSort': signature of non-private member contains assembly private type 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(20,12): message : see declaration of 'Project1::Talent'
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(147,8): warning C4101: 'status': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(301,11): warning C4101: 'talent_first_nam': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(300,11): warning C4101: 'talent_username': unreferenced local variable
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\CustomerPage.h(302,11): warning C4101: 'talent_last_name': unreferenced local variable
+  Generating Code...
+  CustomerCreation.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\x64\Debug\Project1.exe

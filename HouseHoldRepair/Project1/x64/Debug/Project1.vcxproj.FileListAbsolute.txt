@@ -1,0 +1,10 @@
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.MyForm.resources
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.MyForm1.resources
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.MyForm2.resources
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.CustomerCreation.resources
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.CustomerPage.resources
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.TalentCreation.resources
+F:\Visual Studio 2022\Code Snippets\Visual C++\My Code Snippets\HouseHoldRepair\Project1\x64\Debug\Project1.TalentPage.resources
